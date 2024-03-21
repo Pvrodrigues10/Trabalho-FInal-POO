@@ -11,8 +11,8 @@ O sistema possui as seguintes funcionalidades:
 - Consulta de produtos.
 
 ### Vendas
--Emissão de Nota Fiscal Eletrônica (NFe);
--Consulta de faturamento por período;
+- Emissão de Nota Fiscal Eletrônica (NFe);
+- Consulta de faturamento por período;
 - Consulta de NFe emitidas;
 - Consulta de faturamento por cliente;
 - Consulta de vendas por cliente e período;
